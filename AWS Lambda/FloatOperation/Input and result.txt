@@ -1,0 +1,13 @@
+Library : math, time
+
+
+
+Input(test-event) example:
+
+{
+    "N": [NUMBER]
+}
+
+
+
+Output : Total Execution Time

@@ -1,0 +1,17 @@
+Workload Input: Image
+
+Workload Output: Image
+
+Lambda Payload(test-event) example:
+
+image : image.jpg or https://www.pexels.com/royalty-free-images/ or https://sample-videos.com/download-sample-jpg-image.php
+
+{
+    "input_bucket": [INPUT_BUCKET_NAME],
+    "object_key": [IMAGE_FILE_NAME],
+    "output_bucket": [OUTPUT_BUCKET_NAME],
+}
+
+
+
+Lambda Output : Total Execution Time
