@@ -7,13 +7,13 @@ from PIL import Image, ImageFilter
 
 
 cos_credentials = {
-  "apikey": "DD051XCO3MnUeIq0BvWq9XxBIV-tXmT5wNWCojzTTyNB",
-  "endpoints": "https://control.cloud-object-storage.cloud.ibm.com/v2/endpoints",
-  "iam_apikey_description": "Auto-generated for key cb8d3610-2911-4eaf-89bd-5ec733caf7ae",
-  "iam_apikey_name": "cos-standard-0uk",
-  "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Writer",
-  "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/59e1a0062ec6457e98d1b467521d2d16::serviceid:ServiceId-d4cd5159-4df3-4594-bc59-b35b931bc3ae",
-  "resource_instance_id": "crn:v1:bluemix:public:cloud-object-storage:global:a/59e1a0062ec6457e98d1b467521d2d16:7d5f4616-b63f-4c8a-b1e0-f09a8638a85b::"
+  "apikey": "api_key",
+  "endpoints": "end_point",
+  "iam_apikey_description": "Auto-generated for key ",
+  "iam_apikey_name": "name",
+  "iam_role_crn": "xxxxx",
+  "iam_serviceid_crn": "xxx",
+  "resource_instance_id": "xxxx"
 }
 
 
